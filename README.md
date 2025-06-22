@@ -29,3 +29,4 @@ Our analysis focuses on answering the following critical business questions:
     * Total number of orders
 
 ---
+![Dashboard 2 (1)](https://github.com/user-attachments/assets/72ca7c69-576b-4d37-8fe3-3c1c6f34d8ce)
