@@ -2,6 +2,7 @@
 
 This project aims to analyze comprehensive pizza sales data to extract key insights and inform strategic business decisions. By examining various data points, we can understand customer behavior, optimize sales strategies, and improve overall business performance.
 
+Tableau Dashboard : https://public.tableau.com/app/profile/deepak.g6459/viz/Pizza_sale_summary/Dashboard2
 ---
 
 ### Key Analysis Objectives:
